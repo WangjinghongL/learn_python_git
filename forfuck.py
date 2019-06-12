@@ -10,3 +10,5 @@ for i in range(101):
     if randint==i :
         break
 print("fucktime",randint)
+
+#唉，iwangtgohome
