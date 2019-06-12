@@ -2,6 +2,8 @@ test add git version control
 
 import random
 
+这个程序有点简单啊
+
 print("...进入猜数字游戏，您有20次机会...")
 chance=0
 randint=random.randint(0,10000)
