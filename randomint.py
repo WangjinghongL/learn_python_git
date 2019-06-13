@@ -4,6 +4,7 @@ import random
 
 print("...进入猜数字游戏，您有20次机会...")
 chance=0
+#生成一个随机数
 randint=random.randint(0,10000)
 boo=False
 while chance<=20:
