@@ -14,4 +14,6 @@ print("fucktime",randint)
 print("impossible gohome")
 for i in range(10):
     print('bug is fixed!!')
+for i in range (5):
+    print('fuck this bug!')
 #唉，iwangtgohome
