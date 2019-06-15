@@ -1,6 +1,6 @@
-h=input('请输入身高')
+h=input('请输入身高:')
 h=float(h)**2
-w=input('请输入体重')
+w=input('请输入体重:')
 w=float(w)
 hzs=w/h
 

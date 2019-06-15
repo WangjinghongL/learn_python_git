@@ -6,7 +6,7 @@ import random
 randint=random.randint(0,100)
 
 for i in range(101):
-    print("fuckyourmom",'zjx','gxl','zz','zyzx')
+    print("qqqq",'111','222','333','4444')
     if randint==i :
         break
 print("fucktime",randint)
